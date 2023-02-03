@@ -9,7 +9,7 @@ FLAGS=(
   --disable-autodetect
   --disable-network
   --disable-everything
-  --enable-muxer=mp4
+  --enable-muxer=matroska,mp4
   --enable-demuxer=mov
   --enable-protocol=file
 )
